@@ -1,0 +1,15 @@
+node_modules/
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+*.pt
+*.h5
+*.onnx
+.DS_Store
+dist/
+build/
+.vscode/
+ml/datasets/*
+!ml/datasets/README.md
